@@ -13,7 +13,6 @@ It features glowing clock hands, a neumorphic design, and a blinking digital dis
 -	Digital clock with AM/PM indicator
 -	Glowing, colorful clock hands
 -	Neumorphic dark theme design
--	Mobile-friendly and responsive layout
 
 ## Screenshots
 
